@@ -4,9 +4,9 @@ The assignments in BAN400 are organized through Github and Github Classroom. By 
 
 **Date:**
 
-**Name:**
+**Name:** Fabian Oschwald
 
-**Student number:**
+**Student number:** 231504
 
 ## :information_source: Problem 1
 Update the personal information above.
