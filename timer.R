@@ -35,6 +35,5 @@ printTicTocLog()
 
 # Solution 3 parallizes on a lower level. If the MTweedieTest-function is more
 # demanding in terms of computation that could be a reason why it is faster
-# to parallize the function itself instead of just running the function on multiple
-# cores like the forEach loop does.
+# to parallize the function itself instead of just parallizing the loop.
 
